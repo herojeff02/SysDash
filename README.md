@@ -5,5 +5,7 @@
 First two screenshots are available in earlier commits.
 The third screenshot represents the current/latest commit.
 
+https://github.com/TheAzack9/FrostedGlass Install this skin/plugin for background blur to work.
+
 You need to have HWiNFO running at all times, and all sensors you want to monitor must be enabled(check "Report value in Gadget") in HWiNFO Gadget.
 Modify the RegValue in each MeterFetch, icon in MeterShape, text in MeterTitle, postfix in MeterValue.
